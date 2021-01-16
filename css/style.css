@@ -358,11 +358,12 @@ body._lock {
 .marks__table td {
 	min-width: 100px;
 	max-width: 30%;
+	text-align: center;
 }
 
 .marks__table .tem-td {
-	min-width: 40px;
-	width: 40px;
+	min-width: 70px;
+	width: 70px;
 	background-color: rgba(60, 135, 192, .1);
 }
 
